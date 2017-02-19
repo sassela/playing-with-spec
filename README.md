@@ -1,7 +1,7 @@
 # playing-with-spec
 
-Examples of spec using [Carin Meier's One Fish Spec Fish post](http://gigasquidsoftware
-.com/blog/2016/05/29/one-fish-spec-fish/) and [Arne Brasseur's LambdaIsland video]
+Examples of spec using [Carin Meier's One Fish Spec Fish post](http://gigasquidsoftware.com/blog/2016/05/29/one-fish-spec-fish/)
+and [Arne Brasseur's LambdaIsland video]
 (https://lambdaisland.com/episodes/clojure-spec).
 
 ## License
